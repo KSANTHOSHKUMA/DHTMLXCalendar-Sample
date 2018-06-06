@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "dhtmlxapp"
+    "name": "test-data"
   },
   "apps": [
     {
@@ -19,14 +19,27 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css",
         "../node_modules/bootstrap/dist/css/bootstrap.css",
         "../node_modules/bootstrap/dist/css/bootstrap-grid.css",
         "../node_modules/bootstrap/dist/css/bootstrap-reboot.css",
         "../node_modules/font-awesome/css/font-awesome.min.css",
+        "../src/assets/public/css/newcss-new/webicons/web-icons.min.css",
+        "../src/assets/public/css/newcss-new/main-temp.css",
+        "../node_modules/quill/dist/quill.snow.css",
+        "../src/assets/public/css/newcss-new/form-floting.css",
+        "../src/assets/public/css/newcss-new/custom1.css",
+        "../src/assets/public/css/newcss-new/custom2.css",
         "../node_modules/dhtmlx-scheduler/codebase/dhtmlxscheduler.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.min.js",
+        "../node_modules/popper.js/dist/umd/popper.min.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.min.js",
+        "../src/assets/public/js/newjs/main.js",
+        "../node_modules/dhtmlx-scheduler/codebase/dhtmlxscheduler.js",
+        "../node_modules/dhtmlx-scheduler/codebase/ext/dhtmlxscheduler_limit.js",
+        "../node_modules/dhtmlx-scheduler/codebase/ext/dhtmlxscheduler_year_view.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

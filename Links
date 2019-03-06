@@ -1,3 +1,43 @@
 https://stackblitz.com/edit/angular-anuksf?file=src%2Fapp%2Fhello.component.ts
 
 https://stackblitz.com/edit/angular-cd474b?file=package.json
+
+
+card laout with ejs-pager
+
+https://stackblitz.com/edit/angular-nv6myv?file=src%2Fapp%2Fapp.component.ts
+
+
+
+ejs pager functionalities full fledged
+https://stackblitz.com/edit/angular-nv6myv?file=src%2Fapp%2Fapp.component.ts
+
+
+global ejs pager
+https://stackblitz.com/edit/angular-ce7vbs?file=src%2Fapp%2Fapp.component.html
+
+date range picker for expires column in GRID
+https://stackblitz.com/edit/angular-jfs7cf
+
+validators for reactive forms.
+https://stackblitz.com/edit/angular-yalkcb?file=src%2Fapp%2Fhello.component.html
+
+validators errors working example
+https://stackblitz.com/edit/angular-ewfmt4?file=src%2Fapp%2Fapp.component.ts
+
+sidebar complete
+https://stackblitz.com/edit/angular-4qu2dt?file=src%2Fapp%2Fapp.component.html
+
+date range picker for grid column by Syncfusion
+
+Sample               : https://stackblitz.com/edit/angular-xggpvi-zjfwhx?file=filtering.html  
+
+Documentation: https://ej2.syncfusion.com/angular/documentation/grid/filtering/?no-cache=1#filter-bar-template-with-custom-component 
+                                https://ej2.syncfusion.com/angular/documentation/api/daterangepicker/#change  
+								
+Filtering data with PIPEs
+https://stackblitz.com/edit/angular-wkmg4o?file=src%2Fapp%2Fapp.component.ts
+https://stackblitz.com/edit/angular-sanfilter?file=src/app/app.component.ts							
+
+ng6 toaster demo
+https://stackblitz.com/edit/angular-wkekng?file=src%2Fapp%2Fapp.component.ts

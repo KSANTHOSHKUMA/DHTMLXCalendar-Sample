@@ -41,3 +41,17 @@ https://stackblitz.com/edit/angular-sanfilter?file=src/app/app.component.ts
 
 ng6 toaster demo
 https://stackblitz.com/edit/angular-wkekng?file=src%2Fapp%2Fapp.component.ts
+
+
+ "scripts": {
+    "ng": "ng",
+    "start": "ng serve --port 6969",
+    "build": "ng build",
+    "build-prod": "node --max_old_space_size=8192 node_modules/@angular/cli/bin/ng build --prod",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "build-prod:stats": "ng build --prod --stats-json",
+    "bundle-report": "webpack-bundle-analyzer dist/apps/stats.json",
+    "analyze": "webpack-bundle-analyzer dist/apps/stats.json" 
+  },

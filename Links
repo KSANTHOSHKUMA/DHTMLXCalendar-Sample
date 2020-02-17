@@ -55,3 +55,7 @@ https://stackblitz.com/edit/angular-wkekng?file=src%2Fapp%2Fapp.component.ts
     "bundle-report": "webpack-bundle-analyzer dist/apps/stats.json",
     "analyze": "webpack-bundle-analyzer dist/apps/stats.json" 
   },
+  
+  
+  filtering json data on multiple conditions
+  https://gist.github.com/jherax/f11d669ba286f21b7a2dcff69621eb72
